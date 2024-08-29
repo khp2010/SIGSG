@@ -1,0 +1,19 @@
+{
+    "name": "dtic/personnels",
+    "description": "Module pour la gestion du personnel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dtic\\Personnels\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khp2010",
+            "email": "72514351+khp2010@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
